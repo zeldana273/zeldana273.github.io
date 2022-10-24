@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("C:/Proyek Website DTPI (Zelda Najla A - 2206819842)/image/background14.jpg");
+    background-color: #F6C6EA;
 }
 
 .header {
@@ -26,41 +26,6 @@ header h1{
     padding-left: 260px;
 }
 
-
-.bio {
-    text-align: center;
-    font-size: 23px;
-    background-size: cover;
-    width: 80%;
-    padding-left: 10%;
-}
-
-.thisme {
-    text-align: left;
-    padding-top: 3px;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
-}
-
-.thisme biodata {
-    border-radius: 20px;
-    text-align: center;
-    background-image: url("C:/Proyek Website DTPI (Zelda Najla A - 2206819842)/image/background5.jpg");
-}
-
-.biodata li {
-    margin: 13px;
-    margin-top: 2%;
-    border-radius: 20px;
-    background-color: #FFABE1;
-    margin-left: 10%;
-    margin-right: 7%;
-    margin-bottom: 2%;
-    background-size: cover;
-    padding-bottom: 0 auto;
-}
-
 .friends img {
     width: 520px;
     height: 320px;
@@ -79,14 +44,6 @@ header h1{
     width: 550px;
     text-align: center;
     padding-top: 1%;
-}
-
-
-.biodata {
-    margin: 30px;
-    margin-top: 30px;
-    border-radius: 40px;
-    background-color: #FFABE1;
 }
 
 .list a {
